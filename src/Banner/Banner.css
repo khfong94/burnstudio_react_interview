@@ -1,0 +1,20 @@
+.BannerHeader{
+    padding-top:5%;
+    
+}
+
+.BannerContent{
+    padding:10px;
+    text-align: center;
+}
+
+.BannerButton{
+    padding:10px;
+}
+
+.Banner{
+    text-align: center;
+    padding: 18%;
+    background-image: url('http://thiswallpaper.com/cdn/hdwallpapers/339/colorful%20hot%20air%20balloons%20above%20the%20clouds%20hd%20wallpaper.jpg');
+}
+
